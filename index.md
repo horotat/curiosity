@@ -13,7 +13,7 @@ If you use this work please cite us as:
 
 Alternatively you can download the bib file here as well:
 
-<a href="https://ali.mk/publications/active-learning/citation.bib" class="btn-body">Download <strong>.bib File</strong></a>
+<a href="https://ali.mk/publications/active-learning/citation.bib" class="btn-body">Download <strong>.bib</strong> file</a>
 
 ## General Variables, Data, and constant definitions
 
