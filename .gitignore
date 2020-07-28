@@ -4,6 +4,6 @@
 /curenv3/
 *.pyc
 /__pycache__/
-._site
+_site/
 Gemfile
 Gemfile.lock
