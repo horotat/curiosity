@@ -9,7 +9,9 @@ If you use this work please cite us as:
 
 Alternatively you can download the bib file here as well:
 <ul class="downloads">
-  <li><a href="https://ali.mk/publications/active-learning/citation.bib">Download <strong>bib File</strong></a></li>
+  <li><a href="https://ali.mk/publications/active-learning/citation.bib">Download <strong>ZIP File</strong></a></li>
+  <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+  <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
 </ul>
 
 
