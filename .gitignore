@@ -1,0 +1,6 @@
+/outfiles/
+.idea/
+/loss_acc/
+/curenv3/
+.pyc
+/__pycache__/
