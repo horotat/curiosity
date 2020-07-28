@@ -1,4 +1,16 @@
-# Curiosity
+## Curious Word Learning
+
+Welcome. This code representation is related to the [Active Word Learning through Self-supervision](https://ali.mk/publications/active-learning/) study.
+
+### Citation
+If you use this work please cite us as:
+
+  >_Gelderloos, L., Mahmoudi Kamelabad, A., & Alishahi, A. (2020). Active Word Learning through Self-supervision. In S. Denison, M. Mack, Y. Xu, & B. C. Armstrong (Eds.), Proceedings for the 42nd Annual Meeting of the Cognitive Science Society (pp. 1050–1056). Cognitive Science Society._
+
+Alternatively you can download the bib file here as well:
+
+
+
 ## General Variables, Data, and constant definitions
 
 ### `dict_words_boxes`
