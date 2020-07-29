@@ -1,3 +1,7 @@
+
+>[!WARNING]
+>This is a warning
+
 ## Curious Word Learning
 
 Welcome. This code representation is related to the [Active Word Learning through Self-supervision](https://ali.mk/publications/active-learning/) study.
