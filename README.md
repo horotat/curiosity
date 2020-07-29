@@ -1,6 +1,5 @@
-
->[!WARNING]
->This is a warning
+| :warning: **This repo is in progress.**: It is meant for a general idea of the project. If you want to reuse and clone please come back at 10 August, or [contact](https://ali.mk/call) for the notification when it is ready to clone. |
+| --- |
 
 ## Curious Word Learning
 
