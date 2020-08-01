@@ -1,3 +1,6 @@
+| :warning: **This repo is in progress.**: It is meant for a general idea of the project. If you want to reuse and clone please come back at 10 August, or [contact](https://ali.mk/call) for the notification when it is ready to clone. |
+| --- |
+
 ## Curious Word Learning
 
 Welcome. This code representation is related to the [Active Word Learning through Self-supervision](https://ali.mk/publications/active-learning/) study.
@@ -8,6 +11,7 @@ If you use this work please cite us as:
   >_Gelderloos, L., Mahmoudi Kamelabad, A., & Alishahi, A. (2020). Active Word Learning through Self-supervision. In S. Denison, M. Mack, Y. Xu, & B. C. Armstrong (Eds.), Proceedings for the 42nd Annual Meeting of the Cognitive Science Society (pp. 1050–1056). Cognitive Science Society._
 
 Alternatively you can download the bib file here as well:
+
 
 
 ## General Variables, Data, and constant definitions
@@ -48,4 +52,4 @@ uc = UniversalConstants()
 ```
 
 # Bug Problems
-report bugs either here on GitHub or [contact Alireza](https://ali.mk/contact) personally.
+please feel free to raise up issue in case you face problems.
