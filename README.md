@@ -3,7 +3,7 @@
 
 ## Curious Word Learning
 
-Welcome. This code representation is related to the [Active Word Learning through Self-supervision](https://ali.mk/publications/active-learning/) study.
+Welcome. This is the code for the paper [Active Word Learning through Self-supervision](https://cognitivesciencesociety.org/cogsci20/papers/0183/) study.
 
 ### Citation
 If you use this work please cite us as:
