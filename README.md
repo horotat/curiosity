@@ -52,4 +52,4 @@ uc = UniversalConstants()
 ```
 
 # Bug Problems
-report bugs either here on GitHub or [contact Alireza](https://ali.mk/contact) personally.
+please feel free to raise up issue in case you face problems.
