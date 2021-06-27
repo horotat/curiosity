@@ -1,4 +1,4 @@
-| :warning: **This repo is in progress.**: It is meant for a general idea of the project. If you want to reuse and clone please come back at 10 August, or [contact](https://ali.mk/call) for the notification when it is ready to clone. |
+| :warning: **This repo contains ongoing work. For reproducibility, the code used for the paper is archived at (https://github.com/lgelderloos/curiosity)[https://github.com/lgelderloos/curiosity] Where Lieke actively takes care of it. |
 | --- |
 
 ## Curious Word Learning
