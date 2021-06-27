@@ -1,4 +1,4 @@
-| :warning: **This repo contains ongoing work. For reproducibility, the code used for the paper is archived at (https://github.com/lgelderloos/curiosity)[https://github.com/lgelderloos/curiosity] Where Lieke actively takes care of it. |
+| :warning: **This repo contains ongoing work. For reproducibility, the code used for the paper is archived at [https://github.com/lgelderloos/curiosity](https://github.com/lgelderloos/curiosity) Where Lieke actively takes care of it. |
 | --- |
 
 ## Curious Word Learning
